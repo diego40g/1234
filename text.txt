@@ -1,5 +1,5 @@
 Texto principal de ejemplo
 
-2 mensaje
+tercer mensaje
 
 fin del archivo
